@@ -1,1 +1,7 @@
-
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqilte3
+/static
+>DS_Store
